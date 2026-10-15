@@ -1,0 +1,13 @@
+node_modules/
+dist/
+tmp/
+.env
+.env.*
+!.env.example
+*.local
+*.log
+*.rar
+*.zip
+coverage/
+test-results/
+.DS_Store
